@@ -43,7 +43,7 @@ We are also trying to minimize the time needed for updating the static mirror wi
 
 **Minimum php version required : 7.3**
 
-* Download the zip [archive](https://github.com/icaruslab/staticmrr/archive/refs/heads/main.zip)
+* Download the zip [archive](https://github.com/icaruslab/staticmirror/archive/refs/heads/main.zip)
 * Open Wordpress website admin dashboard
 * Go to Plugins > Add New > Upload Plugin
 * After upload the .zip file activate the plugin
